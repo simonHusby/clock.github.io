@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>Hello, World</h1>
-<script>
+<script type="text/javascript">
 var d = new Date(); 
 var n = d.getTime(); //gets the number of milliseconds since 1970-01-01 00:00
 
