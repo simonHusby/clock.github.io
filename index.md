@@ -46,4 +46,5 @@ if(H<10) {  //I don't know a better way than using three layers of if else state
   };
 };
 </script>
+<p id="console"></p>
 </body>
