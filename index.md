@@ -2,7 +2,6 @@
 <html>
 <body>
 <h1>Hello, World</h1>
-</body>
 <script>
 var d = new Date(); 
 var n = d.getTime(); //gets the number of milliseconds since 1970-01-01 00:00
@@ -48,3 +47,4 @@ if(H<10) {  //I don't know a better way than using three layers of if else state
   };
 };
 </script>
+</body>
